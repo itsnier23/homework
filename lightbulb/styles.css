@@ -52,7 +52,7 @@ body {
 .container .wrapper .on-btn:hover, .container .wrapper .off-btn:hover {
   color: red;
   background-color: black;
-  border: 0.10rem solid black;
+  border: 0.60rem solid black;
 
 
 }
