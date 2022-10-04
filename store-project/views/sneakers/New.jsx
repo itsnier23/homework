@@ -6,7 +6,7 @@ class New extends React.Component {
         return (
             <DefaultLayout title='create a new sneakers' foodGroup='sneakers'>
             
-                <h1>New Page</h1>
+                <h1>CREATE YOUR OWN SNEAKERS</h1>
                 <form action="/sneakers" method='POST'>
                     <label htmlFor='name'>Name:</label>
                     <input type='text' id='name' name='name'></input>

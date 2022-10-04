@@ -6,13 +6,13 @@ class Index extends React.Component {
 
     render() {
 
-        const { sneakers } = this.props
+        const { snkrs } = this.props
 
         return (
             <DefaultLayout title="All Sneaker" foodGroup="Sneaker">
                     <h1>Sneaker Index Page</h1>
                     <ul id="Sneaker-index">
-                        {sneakers.map((sneaker) => {
+                        {snkrs.map((sneaker) => {
                             return (
                                 <li key={sneaker._id}>
                                     The <a href={`/sneakers/${sneaker._id}`}>{sneaker.name}</a> is {sneaker.color}.
@@ -22,7 +22,7 @@ class Index extends React.Component {
                     </ul>
 
                     <nav>
-                        <a href="/sneakers/new">Create a new Shoes</a>
+                        <a href="/sneakers/New">Create a new Shoes</a>
                     </nav>
             </DefaultLayout>
         )

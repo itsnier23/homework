@@ -9,14 +9,21 @@ class DefaultLayout extends React.Component {
                     <link rel="stylesheet" href="/css/styles.css" />
                 </head>
                 <body>
-                <nav className="menu-bar">
-                    <div className="group">
-                        <a className="item title">Prince SNKRS</a>
+                <nav>
+                    <div class="logo">
+                        <h4>THE NAV</h4>
                     </div>
-                    <div className="group">
-                        <a className="item">Home</a>
-                        <a className="item">Shop</a>
-                    </div>
+                    <ul>
+                        <li>
+
+                        </li>
+                        <li>
+
+                        </li>
+                        <li>
+                            
+                        </li>
+                    </ul>
                 </nav>
                 
                         

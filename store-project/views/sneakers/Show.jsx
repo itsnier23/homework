@@ -5,10 +5,10 @@ class Show extends React.Component {
 
     render() {
 
-        const { name, color, _id } = this.props.sneakers
+        const { name, color, _id } = this.props.snkrs
 
         return (
-            <DefaultLayout title={`${name} details`} foodGroup='sneakers'>
+            <DefaultLayout title={`${name} details`} snakersGroup='sneakers'>
             
                 <h1>sneakers</h1>
                 <p>

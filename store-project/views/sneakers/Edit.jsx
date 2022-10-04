@@ -4,7 +4,7 @@ const DefaultLayout = require('../layouts/DefaultLayout')
 class Edit extends React.Component {
     render() {
 
-        let { sneakers } = this.props
+        let { snkrs } = this.props
         
         return (
             <DefaultLayout title='edit a sneakers' foodGroup='sneakers'>

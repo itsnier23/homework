@@ -7,7 +7,7 @@ const findAllSneakers = (req, res) => {
         if (err) {
             res.status(400).json(err)
         } else {
-            res.status(200).render('Index', {snkrs: foundSneaker})
+            res.status(200).render('sneakers/Index', {snkrs: foundSneaker})
         }
     })
 }
@@ -15,7 +15,7 @@ const findAllSneakers = (req, res) => {
 // new
 const newSneaker = (req, res) => {
    
-    res.render('New')
+    res.render('sneakers/New')
 }
 
 // delete
@@ -71,7 +71,7 @@ const editSneaker = (req, res) => {
             res.status(400).json(err)
         } else {
             
-            res.status(200).render('Edit', { snkrs: foundSneaker})
+            res.status(200).render('sneakers/Edit', { snkrs: foundSneaker})
         }
     })
 }
@@ -85,7 +85,7 @@ const showUniqueSneaker = (req, res) => {
             res.status(400).json(err)
         } else {
             
-            res.status(200).render('Show', { snkrs: foundSneaker })
+            res.status(200).render('sneakers/Show', { snkrs: foundSneaker })
         }
     })
 }
