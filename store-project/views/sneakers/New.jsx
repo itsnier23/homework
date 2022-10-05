@@ -15,8 +15,15 @@ class New extends React.Component {
                     <input type='text' id='color' name='color'></input>
 
                     <input type='submit' value="Create Sneakers"></input>
+
+                    
+
+                    
+                    
                 </form>
-            
+                
+                
+                
             </DefaultLayout>
         ) 
     }
