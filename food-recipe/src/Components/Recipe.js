@@ -43,6 +43,7 @@ const Recipe = () => {
                         <div className="instructions">
                             <h2>Instructions</h2><br />
                             <h4>{item.strInstructions}</h4>
+                            
                         </div>
                     </div>
                     <div className="video">

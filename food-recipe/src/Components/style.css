@@ -16,7 +16,7 @@ body{
     text-align: center;
 }
 .heading h1{
-    color:#030e12;
+    color: rgb(255, 166, 0);
     font-size: 48px;
     font-weight:900;
     letter-spacing: 1px;
@@ -48,7 +48,18 @@ body{
 .card img{
     width: 100%;
     border-radius: 1rem 1rem 0 0;
+
 }
+
+.card img:hover {
+    color: rgb(255, 166, 0);
+  background-color: black;
+  border: 0.60rem solid black;
+
+}
+
+
+
 .card h3{
     color:white;
     font-size: 18px;
@@ -102,3 +113,10 @@ body{
     color: white;
     margin: 0 5px 0 5px;
 }
+
+.numBox:hover {
+    color: rgb(255, 166, 0);
+    background-color: black;
+    border: 0.60rem solid black;
+}
+
