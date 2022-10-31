@@ -18,7 +18,10 @@ www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 
 # Future Improvement
-
+1 Add more Food Recipe -international and local
+2 Add a done and undone button if you already make the food recipe
+3 Add a back button on the recipe pages (tried but it i didnt work)
+4 Add a nutrition fact where you can track the calories on each ingredients (also an API)
 
 
 
