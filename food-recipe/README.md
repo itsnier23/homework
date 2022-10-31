@@ -1,3 +1,21 @@
+# Technologies Used
+React/ JavaScript / CSS / HTML / REACT-ROUTER
+
+# API
+www.themealdb.com/api/json/v1/1/lookup.php?i=52772
+
+
+# Challenges
+1.Finding an Api that works easily for this project
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
