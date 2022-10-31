@@ -3,26 +3,29 @@
 React/ JavaScript / CSS / HTML / REACT-ROUTER-DOM / Git-hub
 
 # API
+https://www.themealdb.com/
+
+Version i used
 www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 
 # Challenges
 • Finding an Api that works easily for this project
-2 Debugging the onClick Number buttons
-3 Debugging Errors
-4 Adding the youtube videos that comes with the ApI
+• Debugging the onClick Number buttons
+• Debugging Errors
+• Adding the youtube videos that comes with the ApI
 
 
 # FUN PART
-1. Styling using CSS
+• Styling using CSS
 
 
 
 # Future Improvement
-1. Add more Food Recipe -international and local
-2. Add a done and undone button if you already make the food recipe
-3. Add a back button on the recipe pages (tried but it i didnt work)
-4. Add a nutrition fact where you can track the calories on each ingredients (also an API)
+• Add more Food Recipe -international and local
+• Add a done and undone button if you already make the food recipe
+• Add a back button on the recipe pages (tried but it i didnt work)
+• Add a nutrition fact where you can track the calories on each ingredients (also an API)
 
 
 
