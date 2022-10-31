@@ -7,7 +7,17 @@ www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 # Challenges
 1.Finding an Api that works easily for this project
+2 Debugging the onClick Number buttons
+3 Debugging Errors
+4 Adding the youtube videos that comes with the ApI
 
+
+# FUN PART
+1. Styling using CSS
+
+
+
+# Future Improvement
 
 
 
