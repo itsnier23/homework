@@ -5,8 +5,12 @@ React/ JavaScript / CSS / REACT-ROUTER / Git-hub
 # API
 https://www.themealdb.com/
 
-Version i used
+Version i used for search bar
 www.themealdb.com/api/json/v1/1/lookup.php?i=52772
+
+
+version i used for index
+www.themealdb.com/api/json/v1/1/search.php?f=a
 
 
 # Challenges 
