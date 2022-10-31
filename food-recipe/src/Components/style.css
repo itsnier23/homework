@@ -8,7 +8,8 @@
     font-family: 'Bona Nova', serif;
 }
 body{
-    background-color: #06283D;
+    background-image: url("https://s3.envato.com/files/266441969/17_IMG_3082-3.jpg");
+    background-color: #cccccc;
 }
 .main{
     width: 80%;
@@ -31,7 +32,25 @@ body{
     outline:none;
     border-radius: 1rem;
     padding: 0.3rem 1rem;
+    background-color:  rgb(255, 166, 0);;
 }
+
+
+
+.search-bar:hover {
+    color: rgb(255, 166, 0);
+  background-color: black;
+  border: 0.60rem solid black;
+}
+
+
+
+
+
+
+
+
+
 .container{
     width: 80%;
     margin:25px auto;

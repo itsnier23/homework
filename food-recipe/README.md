@@ -1,5 +1,6 @@
+
 # Technologies Used
-React/ JavaScript / CSS / HTML / REACT-ROUTER
+React/ JavaScript / CSS / HTML / REACT-ROUTER-DOM / Git-hub
 
 # API
 www.themealdb.com/api/json/v1/1/lookup.php?i=52772
