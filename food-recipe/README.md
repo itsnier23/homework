@@ -16,7 +16,7 @@ www.themealdb.com/api/json/v1/1/search.php?f=a
 # Challenges 
 • Finding an Api that works easily for this project
 
-• Debugging the onClick Number buttons
+• Debugging the onClick letter buttons
 
 • Debugging Errors
 
