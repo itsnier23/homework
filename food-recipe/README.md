@@ -14,6 +14,7 @@ www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 • Debugging the onClick Number buttons
 • Debugging Errors
 • Adding the youtube videos that comes with the ApI
+• Making my search bar and index pages works
 
 
 # FUN PART
