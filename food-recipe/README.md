@@ -32,7 +32,7 @@ www.themealdb.com/api/json/v1/1/search.php?f=a
 
 
 # Future Improvement
-• Add more Food Recipe -international and local
+• Add more Food Recipe -international
 
 • Add a done and undone button if you already make the food recipe
 
