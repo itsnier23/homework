@@ -1,8 +1,9 @@
 import React from "react";
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 var id="";
 const Recipe = () => {
+    const history = useNavigate()
     const [item, setItem] = useState(); 
     const { recipeId } = useParams();
     if (recipeId !==" ") {
@@ -19,6 +20,7 @@ const Recipe = () => {
 
     return (
         <>
+            <button onclick={()=> history(-1)}>Go Back</button>
             {
                 (!item) ? "" : <div className="content">
                     <img src={item.strMealThumb} alt="" />
@@ -47,6 +49,7 @@ const Recipe = () => {
                         </div>
                     </div>
                     <div className="video">
+                    
                        
                             {/* setVurl(item.strYoutube)
                                 //const str=item.strYoutube.split("=");
@@ -58,6 +61,8 @@ const Recipe = () => {
                         100%" height="515" title="recipeVideo"
                             src={`https://www.youtube.com/embed/${id}`}>
                         </iframe>
+
+                        
                     </div>
 
                 </div>

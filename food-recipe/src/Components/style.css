@@ -8,7 +8,7 @@
     font-family: 'Bona Nova', serif;
 }
 body{
-    background-color: #4e441c;
+    background-color: #06283D;
 }
 .main{
     width: 80%;
@@ -17,7 +17,7 @@ body{
 }
 .heading h1{
     color: rgb(255, 166, 0);
-    font-size: 48px;
+    font-size: 80px;
     font-weight:900;
     letter-spacing: 1px;
     padding-top:2rem;
@@ -38,6 +38,7 @@ body{
     display: grid;
     grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
     grid-gap: 2rem;
+    padding-top: px;
 }
 .card{
     width: 180px;
@@ -102,6 +103,7 @@ body{
 .indexContainer{
     display: flex;
     margin: 2.5rem 0;
+    padding-top: 220px;
 }
 .numBox {
     width: 50px;
