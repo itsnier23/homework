@@ -9,7 +9,7 @@ Version i used
 www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 
-# Challenges
+# Challenges 
 • Finding an Api that works easily for this project
 
 • Debugging the onClick Number buttons
@@ -21,15 +21,17 @@ www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 • Making my search bar and index pages works
 
 
-# FUN PART
-• Styling using CSS
+
 
 
 
 # Future Improvement
 • Add more Food Recipe -international and local
+
 • Add a done and undone button if you already make the food recipe
+
 • Add a back button on the recipe pages (tried but it i didnt work)
+
 • Add a nutrition fact where you can track the calories on each ingredients (also an API)
 
 
